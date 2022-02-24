@@ -1,0 +1,96 @@
+.index {
+    background-image: url("../img/kanto\ map.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+span {
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.65);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#imagen {
+    width: 50%;
+}
+
+li {
+    text-decoration: none;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/* ¡¡¡¡ARTICUNO!!!! */
+
+.Articuno {
+    background-color: rgb(0, 153, 255);
+    font-family: 'Press Start 2P', cursive;
+}
+
+.Articuno span {
+    background-color: aqua;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.Articuno h1 {
+    text-align: center;
+}
+
+.Articuno h5 {
+    text-align: center;
+}
+
+.Articuno a {
+    text-decoration: none;
+}
+
+#volverinicio {
+    background-color: white;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+
+/* ¡¡¡Charizard!!! */
+
+.Charizard {
+    background-color: rgb(255, 115, 0);
+    font-family: 'Press Start 2P', cursive;
+}
+
+.Charizard h1 {
+    text-align: center;
+}
+
+.Charizard span {
+    background-color: orange;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.Charizard h5 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#volverinicio {
+    background-color: white;
+    padding: 7px;
+    border-radius: 5px;
+}
