@@ -85,7 +85,7 @@ a {
     text-align: center;
 }
 
-a {
+.Charizard a {
     text-decoration: none;
 }
 
@@ -93,4 +93,45 @@ a {
     background-color: white;
     padding: 7px;
     border-radius: 5px;
+}
+
+
+/*  ¡¡¡¡MIUTUUU!!!!  */
+
+.Miutu {
+    background-color: rgb(212, 0, 255);
+    font-family: 'Press Start 2P', cursive;
+}
+
+.Miutu h1 {
+    text-align: center;
+}
+
+.Miutu span {
+    background-color: blueviolet;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.Miutu a {
+    text-decoration: none;
+}
+
+.Miutu h5 {
+    text-align: center;
+}
+
+#volverainicio {
+    background-color: white;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+
+/* MEDIA QUERIES */
+
+@media only screen and (max-width: 600px) {
+    img {
+        width: 100%;
+    }
 }
